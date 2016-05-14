@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # 2016.05.15 Hello!!
+# Hello!!2
 
 $LOAD_PATH.unshift File.expand_path('../lib', __FILE__)
 
